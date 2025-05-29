@@ -1,0 +1,23 @@
+{
+  "name": "learning-new",
+  "version": "1.0.0",
+  "description": "Learning Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kushal456439/Learning-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kushal456439/Learning-new/issues"
+  },
+  "homepage": "https://github.com/Kushal456439/Learning-new#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
